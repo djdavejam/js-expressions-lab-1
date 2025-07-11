@@ -1,15 +1,3 @@
-
-
-//! After creating the four variables mentioned above, uncomment the following lines
-//* This way you can export them to the test file, this is essential for the tests to work
-
-module.exports = {
-    // tot_temperature_in_fahrenheit,
-    // tot_temperature_in_celsius,
-    // avg_temperature_in_fahrenheit,
-    // avg_temperature_in_celsius
-}
-
 const day1TempF = 32
 const day2TempC = 25
 const day3TempF = 70
